@@ -11,7 +11,7 @@ with open('schema.sql') as f:
                 ('First Post', 'Content for the first post')
                 )
     cur.execute("INSERT INTO posts (title, content) VALUES (?, ?)",
-                ('First Post', 'Content for the first post')
+                ('Second Post', 'Content for the second post')
                 )
 connection.commit()
 connection.close()
