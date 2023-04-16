@@ -1,4 +1,4 @@
-# Beginning of a Flask Blog
+# Beginning of a blog built with Flask
 ### Author: Gregory Spain
 ### Start Date: April 16, 2023
 ### Last Update: April 16, 2023
