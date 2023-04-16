@@ -10,8 +10,7 @@ Python for Web Development at Clark State College.
 
 ## To Run:
 1. Install dependencies.
-2. Set the FLASK_APP variable to 'hello'. This varies by operating system. 
-   Via Powershell: $env:FLASK_APP = "hello.py" or --app hello
+2. Run 'python init_db.py'.
 3. Run 'flask run'.
 
 ## Currently, this won't display much, but it will be built gradually.
