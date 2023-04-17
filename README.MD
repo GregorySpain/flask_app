@@ -7,11 +7,14 @@ Python for Web Development at Clark State College.
 
 ## External Dependencies:
 1. Flask - pip install flask
+2. Pytest - pip install pytest
 
 ## To Run:
 1. Install dependencies.
 2. Run 'python init_db.py'.
 3. Run 'flask run'.
+4. For testing, run 'py.test'.
 
-## Currently, this won't display much, but it will be built gradually.
-With any luck it will be mostly done by the end of the day!
+## This app hosts a blog.
+It uses an SQLite database to store and retrieve the posts.
+The posts can also be edited or deleted.
